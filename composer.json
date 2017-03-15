@@ -1,0 +1,13 @@
+{
+  "name": "shopifyturnto",
+  "description": "A Shopify app which installs for shopifyturnto",
+  "authors": [
+    {
+      "name": "Boski Mehta",
+      "email": "boskim.3ginfo@gmail.com"
+    }
+  ],
+  "require": {
+    "php": "^5.6.0"
+  }
+}
